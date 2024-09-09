@@ -1,4 +1,6 @@
-# Y-Combinator-Startups-Analysis
+![img src=httpsgithub comuser-attachmentsassets5065a2ea-6df7-47fc-94e2-40540c34504f alt=drawing width=50](https://github.com/user-attachments/assets/5db60983-0b36-4806-8c13-e34793ce7b24)
+
+
 
 ## Project Context
 
