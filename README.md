@@ -3,7 +3,7 @@
 
 ## Project Context
 
-This project aims to analyze the startups incubated by Y Combinator to identify trends, investment opportunities, and actionable insights. The goal is to help a venture capital firm make informed decisions about which startups to invest in. The dataset used for this analysis includes information about startups such as company name, description, location, founding year, number of founders, and more.
+This project aims to analyze the startups incubated by Y Combinator to identify trends, investment opportunities, and actionable insights. The dataset used for this analysis includes information about startups such as company name, description, location, founding year, number of founders, and more.
 
 ### *️⃣ Why This Project?
 
