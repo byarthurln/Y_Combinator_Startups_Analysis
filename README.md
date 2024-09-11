@@ -7,7 +7,7 @@ This project aims to analyze the startups incubated by Y Combinator to identify 
 
 ### *️⃣ Why This Project?
 
-As an aspiring entrepreneur, I have followed all the YouTube videos of Y Combinator and have been closely tracking the startups that are incubated there. My dream is to one day join this prestigious incubator. This project is driven by my curiosity and the questions I have about the startups in Y Combinator. I wanted to understand the factors that contribute to the success of these startups and gain insights that could help me in my own entrepreneurial journey. By analyzing this data, I aim to answer questions that I believe are crucial for anyone interested in the startup ecosystem.
+This project is driven by my curiosity and the questions I have about the startups in Y Combinator. I wanted to understand the factors that contribute to the success of these startups and gain insights that could help me in my own entrepreneurial journey. By analyzing this data, I aim to answer questions that I believe are crucial for anyone interested in the startup ecosystem.
 
 ### *️⃣ Questions to Answer
 
