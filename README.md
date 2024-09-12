@@ -15,7 +15,9 @@ This project is driven by my curiosity and the questions I have about the startu
    - Which countries and cities are most represented among Y Combinator startups?
    - Are there specific geographical trends that could influence investment decisions?
    <br />
-         <img width="450" alt="Capture d’écran 2024-09-12 à 17 31 25" src="https://github.com/user-attachments/assets/b06bffe3-7d99-4be4-b6a6-67cbdb9d1152">
+   
+   <img width="750" alt="Capture d’écran 2024-09-12 à 17 35 48" src="https://github.com/user-attachments/assets/0e61af47-1900-4c8f-9cc3-7832334b0041">
+
 
    
 
