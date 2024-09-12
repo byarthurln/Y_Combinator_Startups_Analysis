@@ -16,7 +16,7 @@ This project is driven by my curiosity and the questions I have about the startu
    - Are there specific geographical trends that could influence investment decisions?
    <br />
    
-   <img width="750" alt="Capture d’écran 2024-09-12 à 17 35 48" src="https://github.com/user-attachments/assets/0e61af47-1900-4c8f-9cc3-7832334b0041">
+<img width="750" alt="Capture d’écran 2024-09-12 à 17 35 48" src="https://github.com/user-attachments/assets/0e61af47-1900-4c8f-9cc3-7832334b0041">
 
 
    
