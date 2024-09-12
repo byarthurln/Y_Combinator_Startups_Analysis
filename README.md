@@ -14,7 +14,7 @@ This project is driven by my curiosity and the questions I have about the startu
 1. **Geographical Analysis**
    - Which countries and cities are most represented among Y Combinator startups?
    - Are there specific geographical trends that could influence investment decisions?
-<img width="750" alt="Capture d’écran 2024-09-12 à 17 35 48" src="https://github.com/user-attachments/assets/0e61af47-1900-4c8f-9cc3-7832334b0041">
+<img width="700" alt="Capture d’écran 2024-09-12 à 17 35 48" src="https://github.com/user-attachments/assets/0e61af47-1900-4c8f-9cc3-7832334b0041">
 
 
    
@@ -48,7 +48,7 @@ This project is driven by my curiosity and the questions I have about the startu
    - How are startups distributed across different Y Combinator batches?
    - Are there particularly high-performing or low-performing batches?
    <br />
-   <img width="800" alt="Capture d’écran 2024-09-12 à 17 48 28" src="https://github.com/user-attachments/assets/b5a07cb9-9471-479f-85ae-8b68f8a67e9a">
+   <img width="900" alt="Capture d’écran 2024-09-12 à 17 48 28" src="https://github.com/user-attachments/assets/b5a07cb9-9471-479f-85ae-8b68f8a67e9a">
 
 
 
