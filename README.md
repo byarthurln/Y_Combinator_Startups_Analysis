@@ -47,7 +47,9 @@ This project is driven by my curiosity and the questions I have about the startu
 8. **Batch Analysis**
    - How are startups distributed across different Y Combinator batches?
    - Are there particularly high-performing or low-performing batches?
-   <img width="700" alt="Capture d’écran 2024-09-12 à 16 13 43" src="https://github.com/user-attachments/assets/1c446295-d3f2-402a-983b-bdca20ea371b">
+   <br />
+   <img width="800" alt="Capture d’écran 2024-09-12 à 17 48 28" src="https://github.com/user-attachments/assets/b5a07cb9-9471-479f-85ae-8b68f8a67e9a">
+
 
 
 ## How the Analysis is Conducted
