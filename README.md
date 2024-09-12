@@ -30,18 +30,21 @@ This project is driven by my curiosity and the questions I have about the startu
 5. **Status Analysis**
    - What is the distribution of startup statuses (active, closed, acquired, etc.)?
    - What factors influence the status of a startup?
+   <br />
+     
+     
+   <img width="650" alt="Capture d’écran 2024-09-12 à 16 30 10" src="https://github.com/user-attachments/assets/e68af835-0b85-4e17-a8ea-4cadc427faba">
+
 
 6. **Description Analysis**
    - What keywords or themes appear most frequently in the short and long descriptions of startups?
    - Are there specific trends in the descriptions that could indicate investment opportunities?
 
-7. **Website and Social Media Analysis**
-   - What proportion of startups have a website, Crunchbase page, or LinkedIn page?
-   - Is there a correlation between online presence and the success of the startup?
-
 8. **Batch Analysis**
    - How are startups distributed across different Y Combinator batches?
    - Are there particularly high-performing or low-performing batches?
+   <img width="700" alt="Capture d’écran 2024-09-12 à 16 13 43" src="https://github.com/user-attachments/assets/1c446295-d3f2-402a-983b-bdca20ea371b">
+
 
 ## How the Analysis is Conducted
 
