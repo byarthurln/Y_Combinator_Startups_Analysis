@@ -31,39 +31,31 @@ The initial dataset is a CSV file containing information about Y Combinator star
 
 1. **Geographical Analysis**
    - Which countries and cities are most represented among Y Combinator startups?
-   - Are there specific geographical trends that could influence investment decisions?
 <img width="750" alt="Capture d’écran 2024-09-12 à 17 35 48" src="https://github.com/user-attachments/assets/0e61af47-1900-4c8f-9cc3-7832334b0041">
 
 2. **Temporal Analysis**
-   - How has the number of startups changed over the years?
-   - Are there specific periods when more startups were founded?
+   - How has the number of startups changed over the years? Are there specific periods when more startups were founded?
+  
+<img width="750" alt="Capture d’écran 2025-02-05 à 15 42 14" src="https://github.com/user-attachments/assets/76d1e3dc-6cb8-4783-979e-fc46c3c50a63" />
+
 
 3. **Sector Analysis**
-   - Which sectors (tags) are most popular among startups?
-   - Are there emerging or declining sectors?
+   - Which sectors are most popular among startups?
+<img width="700" alt="Capture d’écran 2025-02-05 à 15 09 07" src="https://github.com/user-attachments/assets/340c2a86-c21d-48bf-8586-f92b15bdd550" />
 
 4. **Founder Analysis**
    - What is the average size of the founding teams?
-   - Is there a correlation between the number of founders and the success of the startup?
+<img width="400" alt="Capture d’écran 2025-02-05 à 15 29 25" src="https://github.com/user-attachments/assets/60765c7d-0bc3-4627-ac2e-d3c0871f6bb9" />
+
+
 
 5. **Status Analysis**
    - What is the distribution of startup statuses (active, closed, acquired, etc.)?
-   - What factors influence the status of a startup?
    <br />
      
      
    <img width="650" alt="Capture d’écran 2024-09-12 à 16 30 10" src="https://github.com/user-attachments/assets/e68af835-0b85-4e17-a8ea-4cadc427faba">
 
-
-6. **Description Analysis**
-   - What keywords or themes appear most frequently in the short and long descriptions of startups?
-   - Are there specific trends in the descriptions that could indicate investment opportunities?
-
-8. **Batch Analysis**
-   - How are startups distributed across different Y Combinator batches?
-   - Are there particularly high-performing or low-performing batches?
-   <br />
-   <img width="900" alt="Capture d’écran 2024-09-12 à 17 48 28" src="https://github.com/user-attachments/assets/b5a07cb9-9471-479f-85ae-8b68f8a67e9a">
 
 ## Tools and Technologies
 
