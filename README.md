@@ -30,7 +30,7 @@ The initial dataset is a CSV file containing information about Y Combinator star
 ### Questions to Answer
 
 1. **Geographical Analysis**
-   - Which countries and cities are most represented among Y Combinator startups?
+   - Which countries are most represented among Y Combinator startups?
 <img width="750" alt="Capture d’écran 2024-09-12 à 17 35 48" src="https://github.com/user-attachments/assets/0e61af47-1900-4c8f-9cc3-7832334b0041">
 
 2. **Temporal Analysis**
